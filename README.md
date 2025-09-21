@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub!
 
 ## 👨‍💻 Who am I?  
-I’m a passionate **Web Designer / Frontend Developer** with solid experience in UX/UI design, and HTML/CSS integration. Recently, I’ve expanded my skills into full-stack development, focusing on modern technologies such as **JavaScript**, **ReactJS**, and **NextJS**.
+I’m a passionate **Web Designer / Integrator** with solid experience in UX/UI design, and HTML/CSS integration. Recently, I’ve expanded my skills into full-stack development, focusing on modern technologies such as **JavaScript**, **ReactJS**, and **NextJS**.
 
 ### 🌟 My Goal:  
 To create seamless and innovative user experiences by combining creativity and technical expertise.
